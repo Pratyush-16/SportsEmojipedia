@@ -1,0 +1,2 @@
+# SportsEmojipedia
+Created with CodeSandbox
